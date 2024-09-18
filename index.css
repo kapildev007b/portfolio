@@ -16,7 +16,7 @@ body{
     height: 100vh;
     background-image: url(abt3.jpg);
     background-size: cover;
-    /* position: relative; */
+    position: relative;
     background-position: center;
 }
 .container{
